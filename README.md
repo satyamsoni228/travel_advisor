@@ -8,13 +8,13 @@ This application going to fetch Restaurants, Hotels and Attractions based on loc
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/satyamsoni228/travel_advisor.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd travel_advisor
 ```
 
 Install dependencies
