@@ -3,6 +3,7 @@
 
 This application going to fetch Restaurants, Hotels and Attractions based on location by using RapidAPI. This application uses Data Filtering also based on the user needs and much more.
 
+You can also search Restaurants, Hotels and Attractions of any place by using search icon or use the map to move to specific location. You can use different filtering method also
 ## Demo
 
 https://advisor-trip.netlify.app/
