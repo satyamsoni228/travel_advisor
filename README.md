@@ -1,5 +1,5 @@
 
-# Project Title
+# Travel-Advisor
 
 This application going to fetch Restaurants, Hotels and Attractions based on location by using RapidAPI. This application uses Data Filtering also based on the user needs and much more.
 
